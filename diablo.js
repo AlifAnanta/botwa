@@ -120,7 +120,7 @@ ppnyauser = await reSize(ppuser, 200, 200)
 const lep = {
 key: {
 fromMe: false, 
-participant: `0@s.whatsapp.net`, 
+participant: `6285890617231@s.whatsapp.net`, 
 ...({ remoteJid: "" }) 
 }, 
 message: { 
