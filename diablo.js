@@ -22,7 +22,7 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = 'Alif Ananta'
+global.ownerName = 'Al'
 global.ownerNumber = ["6285890617231@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
@@ -219,7 +219,7 @@ case 'menu':
 jiren = ` 
 ┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 
 ┣❏ ᴏᴡɴᴇʀ : 6285890617231
-┣❏ ɴᴀᴍᴇ ʙᴏᴛ : Al BUG🔥
+┣❏ ɴᴀᴍᴇ ʙᴏᴛ : AL BUG🔥
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ┗━━⊱
 ╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
@@ -229,7 +229,7 @@ jiren = `
 ╠➤addakses @
 ╠➤delakses @
 ╠➤kick @
-╚════[ *Al CHANNEL* ]══════⊱
+╚════[ *AL CHANNEL* ]══════⊱
 ╔══════[ 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐 ]══════⊱
 ╠➤ 🌷 62xxx
 ╠➤ 🗿 62xxx
@@ -255,7 +255,7 @@ jiren = `
 ╠➤bugslebew 62xxxxx
 ╠➤bugneko 62xxxxx
 ╠➤bughentai 62xxxxx
-╚════[ *Al CHANNEL* ]══════⊱
+╚════[ *AL CHANNEL* ]══════⊱
     
 `
 diablobotwhatsapp.reply(jiren)
