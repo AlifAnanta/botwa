@@ -75,7 +75,7 @@ v = store.contacts[id] || {}
 if (!(v.name || v.subject)) v = diablo.groupMetadata(id) || {}
 resolve(v.name || v.subject || PhoneNumber('+' + id.replace('@s.whatsapp.net', '')).getNumber('international'))
 })
-else v = id === '0@s.whatsapp.net' ? {
+else v = id === '6285890617231@s.whatsapp.net' ? {
 id,
 name: 'WhatsApp'
 } : id === diablo.decodeJid(diablo.user.id) ?
